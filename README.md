@@ -42,7 +42,6 @@ All materials are organized by semester, making it easy to navigate and access t
 │
 ├── Spring-2026/
 │   ├── Practice/
-│   ├── Quizzes/
 │   └── Solutions/
 │
 └── README.md
@@ -78,7 +77,7 @@ All materials are organized by semester, making it easy to navigate and access t
 
 ## Teaching Assistant Team – Spring 2026
 
-- Aysoda Fazli-Khani
+- Aysouda Fazlikhani
 - Matin Sabbagh Khorasani
 - Shayan Dashtizad
 - Fatemeh Amirkhanlou
